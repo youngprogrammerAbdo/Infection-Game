@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1279509661672419399
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1031479310071798769, guid: 1f492399fe5eaf9429a468886296e415,
+        type: 3}
+      propertyPath: m_Name
+      value: BanzerBullet
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 5318781733306351645, guid: 1f492399fe5eaf9429a468886296e415, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 1f492399fe5eaf9429a468886296e415, type: 3}
