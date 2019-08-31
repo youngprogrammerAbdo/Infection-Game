@@ -71,7 +71,9 @@ public class CarMobileController : MonoBehaviour
 			}
 			else if (RecRight.Contains(vec))
 			{
-				turnvalue = 0.3f;
+				
+				turnvalue = 0.3f
+					;
 			}
 			else {
 				turnvalue = 0;

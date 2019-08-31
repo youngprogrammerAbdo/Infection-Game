@@ -6,7 +6,7 @@ public class Save_Load_Data : MonoBehaviour {
 
 	void Start() {
 		InitialData();
-		PlayerPrefs.SetInt("score", 512000);
+		PlayerPrefs.SetInt("score", 0);
 	}
 
 	//Initial Data
